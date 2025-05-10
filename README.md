@@ -19,8 +19,6 @@ Currently learning and building beginner projects to grow my skills and confiden
 - Strengthen my frontend development skills<br>
 - Contribute to open-source as I grow
 <br>
-
-
 ### ⚡ Fun fact:<br>
 I believe in **learning by doing**, and I’m just getting started on GitHub! 🌱<br>
 
