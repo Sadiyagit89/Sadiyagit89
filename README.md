@@ -6,6 +6,7 @@ Currently learning and building beginner projects to grow my skills and confiden
 ### 💻 Tech I'm Learning:<br>
 - HTML, CSS, JavaScript,bootsrap and PHP <br>
 - Git & GitHub<br>
+- Github Desktop<br>
 - React (Basics)<br>
 - Responsive Web Design<br>
 
